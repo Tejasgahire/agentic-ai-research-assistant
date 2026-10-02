@@ -109,7 +109,25 @@ The application follows a multi-agent research workflow:
 The workflow is orchestrated using **LangGraph**.
 
 ---
+## 📸 Screenshots
 
+### Main Interface
+
+![Main Interface](screenshots/01-main-interface.png)
+
+### Research Pipeline
+
+![Research Pipeline](screenshots/02-research-pipeline.png)
+
+### Verification & Quality
+
+![Verification & Quality](screenshots/03-verification-quality.png)
+
+### Final Research Report
+
+![Final Research Report](screenshots/04-final-report.png)
+
+---
 ## 🔬 Normal vs Deep Research
 
 ### Normal Research
@@ -288,8 +306,8 @@ Generates the final structured research report.
 ### 1. Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
-cd Agentic-AI-Research-Assistant
+git clone https://github.com/Tejasgahire/agentic-ai-research-assistant.git
+cd agentic-ai-research-assistant
 ```
 
 ### 2. Create a virtual environment
